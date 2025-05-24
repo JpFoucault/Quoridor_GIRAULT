@@ -9,6 +9,8 @@ To compile this project, make sure you have correctly installed the following to
 - [Visual Studio](https://visualstudio.microsoft.com/) with "Desktop Development in C++" option,
 - [CMake](https://cmake.org/download/).
 
+Open the ``third_party`` folder and un-zip all the current zip folder. Onto the same folder. Then Un-install All the ``.zip`` files.
+
 Double-click on ``build_vs.bat`` file to run the script.
 The Visual Studio solution is created in the ``_build_vs`` folder.
 
